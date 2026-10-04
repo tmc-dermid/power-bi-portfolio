@@ -2,12 +2,12 @@
 
 Power BI project focused on data preparation, data modeling, DAX, and interactive data visualization.
 
-## Project
+# Project
 The project focuses on analyzing sales performance, revenue, profit, returns, regional performance, product trends, and customer value.
 
 The analysis was built from raw CSV files containing information about transactions, returns, products, customers, and sales territories.
 
-# Objectives
+## Objectives
 - Connect and transform raw data using Power Query
 - Build a relational data model
 - Create calculated columns and measures using DAX
@@ -15,7 +15,7 @@ The analysis was built from raw CSV files containing information about transacti
 - Analyze business performance across different dimensions
 - Apply Power BI tools for report optimization and performance analysis
 
-# Project Results
+## Project Results
 - Interactive Power BI report
 - Relational data model
 - Power Query transformations
@@ -23,9 +23,9 @@ The analysis was built from raw CSV files containing information about transacti
 - Interactive visualizations and dashboards
 - Performance analysis and optimization
 
-## Topics
+# Topics
 
-# Data Preparation & Power Query
+## Data Preparation & Power Query
 - Power Query
 - Data Connectors & Connection Modes
 - Query Editor
@@ -37,7 +37,7 @@ The analysis was built from raw CSV files containing information about transacti
 - Merging & Appending Queries
 - Query Refreshing
 
-# Data Modeling
+## Data Modeling
 - Relational Data Modeling
 - Normalization
 - Fact & Dimension Tables
@@ -49,7 +49,7 @@ The analysis was built from raw CSV files containing information about transacti
 - Hierarchies
 - Data Categories & Hidden Fields
 
-# DAX
+## DAX
 - DAX Syntax & Fundamentals
 - Calculated Columns & Measures
 - Row Context & Filter Context
@@ -59,7 +59,7 @@ The analysis was built from raw CSV files containing information about transacti
 - CALCULATE
 - Time Intelligence
 
-# Data Visualization & Interactive Reports
+## Data Visualization & Interactive Reports
 - Data Visualization Best Practices
 - Charts & Report Visuals
 - Formatting & Filtering
@@ -71,7 +71,7 @@ The analysis was built from raw CSV files containing information about transacti
 - Mobile Layouts
 - Row-Level Security
 
-# AI-Powered Analytics
+## AI-Powered Analytics
 - Anomaly Detection
 - Q&A Visuals
 - Smart Narrative
@@ -79,7 +79,7 @@ The analysis was built from raw CSV files containing information about transacti
 - Key Influencers
 - Top Segments
 
-# Performance Optimization
+## Performance Optimization
 - Optimize Ribbon
 - Performance Analyzer
 - Visual Optimization
